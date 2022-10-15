@@ -13,7 +13,7 @@ This folder contains:
 - A notebook with the code that was used to clean the data, and to design and validate the model
 - The notebook is very clearly annotated so following it is quite simple
 
-## Server;
+## Server:
 - This folder cotains a folder called "artifiacts", it contains a JSON and pickle file. These together form the model which will be used to make predictions
 - It also contains server.py which is the flask server
 - The util.py file contains all the routines that have to be performed
