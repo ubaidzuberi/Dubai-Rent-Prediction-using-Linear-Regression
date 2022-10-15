@@ -1,5 +1,5 @@
 # Dubai-rent-prediction-using-linear-regression
-The aim of this project is to be able to predict the rent of an apartment in Dubai using the following information: location, area (in sqft), number of bedrooms and the number of bathrooms.
+The aim of this project is to be able to predict the rent of an apartment in Dubai using the following information: location, area (in sqft), number of bedrooms and the number of bathrooms. The model was then deployed using a flask server.
 
 ## Final Deployed Product
 The image below shows what the final working version of this model should look like:
